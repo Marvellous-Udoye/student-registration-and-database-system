@@ -1,4 +1,4 @@
-# **Student Registration and Database System - ReadMe**
+# **Student Registration and Database System**
 ## Objective
   
 The objective of this system is to provide a user-friendly graphical interface (GUI) for collecting student data and storing it in an Excel spreadsheet for easy organization and retrieval.
@@ -32,11 +32,6 @@ The GUI application provides functionalities for:
 6. **Exit Functionality:** Clicking the "Exit" button closes the application. 
 
 
-
-
-
-
-
 ## Important Information
 
 - The system relies on two files:
@@ -68,3 +63,6 @@ The GUI application provides functionalities for:
 ## Summary
 
 This Student Registration and Database System provides an easy-to-use interface for collecting and storing student information. The use of Tkinter for the GUI, openpyxl for Excel file handling, and PIL for image processing ensures a seamless and efficient registration process.
+
+
+![Screenshot 2024-06-07 145530](https://github.com/user-attachments/assets/0bd7e29e-4da9-4881-86a0-74222b58ed6d)
